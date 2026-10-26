@@ -1,13 +1,46 @@
-# LankaMart Retail Analytics — Beginner Dataset
+# Retail Sales & Profitability Intelligence Dashboard
 
-Synthetic practice data, not real company records. All amounts are LKR.
+## Project Overview
+An advanced Microsoft Excel business intelligence project designed to analyze retail sales, product profitability, branch performance, and operational efficiency using realistic synthetic business data.
 
-Import each CSV in Excel using Data > Get Data > From Text/CSV. Start with sales.csv, products.csv and stores.csv.
+## Business Problem
+Retail management requires accurate and interactive reporting to identify profitable products, evaluate branch performance, control costs, and improve strategic decision-making.
 
-Sales line IDs are unique. DiscountRate is a decimal (0.10 = 10%). UnitCostAtSale is the historical cost for each sale. Returns reference original LineID and include ReturnedCost. Targets and expenses are monthly, not per transaction.
+## Project Objectives
+- Analyze revenue, profit, discounts, and returns.
+- Evaluate branch and product profitability.
+- Monitor business KPIs and revenue targets.
+- Forecast future sales performance.
+- Support management decisions using scenario analysis.
 
-Important: The dataset contains sales through June 2026 but monthly targets and expenses are supplied only for January–June 2025, as a small beginner exercise. For reliable comparative reporting, expand monthly targets and expenses to every period being analyzed.
+## Tools and Technologies
+- Microsoft Excel 365
+- Power Query
+- Power Pivot
+- DAX
+- PivotTables and PivotCharts
+- Advanced Excel Formulas
+- What-If Analysis
 
-Key sales formulas: GrossSales=Quantity*UnitPrice; DiscountAmount=GrossSales*DiscountRate; SalesAfterDiscount=GrossSales-DiscountAmount; COGS=Quantity*UnitCostAtSale.
+## Project Workflow
+1. Business requirements and dataset preparation
+2. Data cleaning and transformation
+3. Data modeling and financial calculations
+4. Interactive dashboard development
+5. Forecasting and profitability simulation
+6. Testing and management recommendations
 
-NetRevenue=SalesAfterDiscount-RefundAmount; NetCOGS=COGS-ReturnedCost; GrossProfit=NetRevenue-NetCOGS; OperatingProfit=GrossProfit-Expenses. Aggregate refunds and expenses at the correct reporting grain before combining; do not join monthly expenses to every sales row.
+## Dashboard Pages
+- Executive Overview
+- Product Profitability
+- Regional and Branch Performance
+- Customer and Sales Channel Analytics
+
+## Key Business Insights
+To be completed after analyzing the final dataset. Include quantified findings, supporting charts, and recommendations.
+
+## Data Privacy
+All published business and customer records are synthetic and do not represent a real company.
+
+## Author
+Computer Science and Technology Graduate | Business Analytics and IT Management Portfolio

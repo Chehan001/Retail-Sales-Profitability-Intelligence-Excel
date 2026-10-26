@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1050" viewBox="0 0 1500 1050">
+<rect width="1500" height="1050" fill="#F0F5FA"/>
+<rect x="60" y="42" width="1380" height="120" rx="22" fill="#102B46"/>
+<text x="100" y="95" font-family="DejaVu Sans" font-size="37" font-weight="bold" fill="#FFFFFF">WALGAMAMART</text>
+<text x="100" y="132" font-family="DejaVu Sans" font-size="22" fill="#BBD1E2">RETAIL SALES &amp; PROFITABILITY • SYSTEM OVERVIEW</text>
+<defs><marker id="a" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M1 1 L11 6 L1 11 Z" fill="#577D9A"/></marker></defs>
+<rect x="390" y="205" width="720" height="112" rx="20" fill="#FFFFFF" stroke="#BDD2E2" stroke-width="2"/>
+<text x="750" y="248" text-anchor="middle" font-family="DejaVu Sans" font-size="26" font-weight="bold" fill="#102B46">SALES TRANSACTION DATASET</text>
+<text x="750" y="283" text-anchor="middle" font-family="DejaVu Sans" font-size="18" fill="#577187">500 rows • Orders • Stores • Products • Channels • Prices • Costs</text>
+<line x1="750" y1="317" x2="750" y2="363" stroke="#577D9A" stroke-width="4" marker-end="url(#a)"/>
+<rect x="135" y="385" width="555" height="125" rx="20" fill="#E4F2FE" stroke="#A9CDEA" stroke-width="2"/>
+<text x="412" y="432" text-anchor="middle" font-family="DejaVu Sans" font-size="26" font-weight="bold" fill="#145888">EXCEL SALES TABLE</text>
+<text x="412" y="469" text-anchor="middle" font-family="DejaVu Sans" font-size="19" fill="#355A78">Structured references • Calculated columns</text>
+<rect x="810" y="385" width="555" height="125" rx="20" fill="#E3F7EE" stroke="#A8DAC6" stroke-width="2"/>
+<text x="1087" y="432" text-anchor="middle" font-family="DejaVu Sans" font-size="26" font-weight="bold" fill="#087B5D">KPI SUMMARY</text>
+<text x="1087" y="469" text-anchor="middle" font-family="DejaVu Sans" font-size="19" fill="#355A78">Revenue • Profit • Margin • Orders • AOV</text>
+<line x1="750" y1="363" x2="412" y2="363" stroke="#577D9A" stroke-width="4"/><line x1="412" y1="363" x2="412" y2="385" stroke="#577D9A" stroke-width="4" marker-end="url(#a)"/><line x1="750" y1="363" x2="1087" y2="363" stroke="#577D9A" stroke-width="4"/><line x1="1087" y1="363" x2="1087" y2="385" stroke="#577D9A" stroke-width="4" marker-end="url(#a)"/>
+<line x1="412" y1="510" x2="412" y2="557" stroke="#577D9A" stroke-width="4" marker-end="url(#a)"/>
+<rect x="135" y="579" width="1230" height="150" rx="20" fill="#FFFFFF" stroke="#BDD2E2" stroke-width="2"/>
+<text x="750" y="620" text-anchor="middle" font-family="DejaVu Sans" font-size="27" font-weight="bold" fill="#102B46">PIVOTTABLE ANALYSIS</text>
+<g font-family="DejaVu Sans" font-size="19" fill="#145888" text-anchor="middle"><text x="290" y="680">Monthly revenue</text><text x="588" y="680">Store performance</text><text x="902" y="680">Sales channels</text><text x="1202" y="680">Top products</text></g>
+<line x1="750" y1="729" x2="750" y2="772" stroke="#577D9A" stroke-width="4" marker-end="url(#a)"/>
+<line x1="1087" y1="510" x2="1087" y2="750" stroke="#577D9A" stroke-width="4"/><line x1="1087" y1="750" x2="990" y2="750" stroke="#577D9A" stroke-width="4"/><line x1="990" y1="750" x2="990" y2="772" stroke="#577D9A" stroke-width="4" marker-end="url(#a)"/>
+<rect x="270" y="792" width="960" height="112" rx="20" fill="#102B46"/>
+<text x="750" y="834" text-anchor="middle" font-family="DejaVu Sans" font-size="28" font-weight="bold" fill="#FFFFFF">EXCEL DASHBOARD</text>
+<text x="750" y="874" text-anchor="middle" font-family="DejaVu Sans" font-size="20" fill="#C5D8E8">KPI cards • PivotCharts • Store &amp; Channel slicers</text>
+<line x1="750" y1="904" x2="750" y2="944" stroke="#577D9A" stroke-width="4" marker-end="url(#a)"/>
+<rect x="390" y="961" width="720" height="65" rx="18" fill="#FFF0D5" stroke="#E9C17C" stroke-width="2"/>
+<text x="750" y="1003" text-anchor="middle" font-family="DejaVu Sans" font-size="23" font-weight="bold" fill="#815611">BUSINESS INSIGHTS &amp; DECISIONS</text>
+</svg>

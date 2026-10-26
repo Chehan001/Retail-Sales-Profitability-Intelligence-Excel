@@ -1,0 +1,31 @@
+ProductID,ProductName,Category,StandardCost,ListPrice
+P001,Electronics Item 01,Electronics,3100,3694.44
+P002,Electronics Item 02,Electronics,7250,9389.47
+P003,Electronics Item 03,Electronics,3800,5799.34
+P004,Electronics Item 04,Electronics,14200,17336.23
+P005,Electronics Item 05,Electronics,11050,13204.06
+P006,Electronics Item 06,Electronics,2600,3335.18
+P007,Groceries Item 07,Groceries,13150,19237.78
+P008,Groceries Item 08,Groceries,14600,18592.42
+P009,Groceries Item 09,Groceries,14200,19555.88
+P010,Groceries Item 10,Groceries,11700,17046.37
+P011,Groceries Item 11,Groceries,400,614.66
+P012,Groceries Item 12,Groceries,4300,6484.94
+P013,Household Item 13,Household,8950,11729.87
+P014,Household Item 14,Household,5750,9371.87
+P015,Household Item 15,Household,8850,10868.14
+P016,Household Item 16,Household,9950,12193.29
+P017,Household Item 17,Household,9050,13246.95
+P018,Household Item 18,Household,1350,2056.01
+P019,Personal Care Item 19,Personal Care,13950,17279.42
+P020,Personal Care Item 20,Personal Care,9900,12048.66
+P021,Personal Care Item 21,Personal Care,7750,12166.11
+P022,Personal Care Item 22,Personal Care,9500,13787.88
+P023,Personal Care Item 23,Personal Care,2000,2403.07
+P024,Personal Care Item 24,Personal Care,6050,9337.22
+P025,Clothing Item 25,Clothing,2250,3559.5
+P026,Clothing Item 26,Clothing,2800,3804.25
+P027,Clothing Item 27,Clothing,11850,17523.44
+P028,Clothing Item 28,Clothing,9550,11999.07
+P029,Clothing Item 29,Clothing,9300,11889.76
+P030,Clothing Item 30,Clothing,7050,10644.48
